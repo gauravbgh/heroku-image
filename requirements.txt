@@ -63,7 +63,6 @@ pyparsing==2.4.7
 pytesseract==0.3.7
 python-dateutil==2.8.1
 pytz==2020.4
-pywin32==300
 PyYAML==5.3.1
 pyzmq==20.0.0
 qdldl==0.1.5.post0
